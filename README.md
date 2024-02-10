@@ -14,3 +14,8 @@ Self Organizing Maps implemented in Numpy.
 <img src="/images/som_loop.png" width="500"/>
 
 
+## Flowering.ipynb
+Historical Series of Phenological data for Cherry Tree Flowering at Kyoto City.
+<img src="/images/kyoto_cherry_flowering.png" width="500"/>
+
+
